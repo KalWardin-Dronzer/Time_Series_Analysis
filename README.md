@@ -1,1 +1,1 @@
-This is a Time Series Analysis of Delhi's AQI
+In this repo I'll doing various Time Series Analysis projects
